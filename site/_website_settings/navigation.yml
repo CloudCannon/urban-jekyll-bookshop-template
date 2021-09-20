@@ -1,0 +1,15 @@
+logo_image: /images/nav-logo.svg
+background_image:
+navigation_items:
+  - label: Portfolio
+    link_url: /portfolio/
+    link_type: Text
+  - label: Blog
+    link_url: /blog/
+    link_type: Text
+  - label: About
+    link_url: /about/
+    link_type: Text
+  - label: Contact
+    link_url: /contact/
+    link_type: Text
