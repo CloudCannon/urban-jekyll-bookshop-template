@@ -121,7 +121,7 @@ cause:
 urban:
   light_theme_settings:
     page_color: "#eee"
-    light_component_color: "#eee"
+    light_component_color: "#ffffff"
     dark_component_color: "#222222"
     brand_color: "#FFA715"
     headings_color: "#000000"

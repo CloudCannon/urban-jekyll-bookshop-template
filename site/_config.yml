@@ -43,6 +43,8 @@ collections:
     _singular_name: 'Staff Member'
     _slug: 'staff_members'
     output: false
+  clients:
+    output: true
 
 # Make sure you add any new collections here for them to show in CloudCannon
 _explore:
@@ -148,3 +150,8 @@ defaults:
       type: posts
     values:
       layout: post
+  -
+    scope:
+      type: clients
+    values:
+      layout: client
