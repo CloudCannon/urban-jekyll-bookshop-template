@@ -5,8 +5,10 @@ GIT
     jekyll-watch (2.2.1)
       listen (~> 3.0)
 
-PATH
-  remote: ../../cc-template-components
+GIT
+  remote: https://github.com/cloudcannon/cc-template-components.git
+  revision: abe07d4422332a44187856c7ba57ea52a685bfd4
+  branch: main
   specs:
     cc-template-components (0.1.0)
       jekyll (~> 4.2)
