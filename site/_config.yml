@@ -59,7 +59,7 @@ _explore:
         - staff_members
     - heading: Settings
       collections:
-        - website_settings
+        - data
 
 # The rest of this array structure will be
 # populated by the bookshop-array-structures plugin.
@@ -82,6 +82,7 @@ _select_data:
     - 'Hydra'
     - 'Justice'
     - 'Cause'
+    - 'Urban'
   component_themes:
     - 'Light'
     - 'Dark'
