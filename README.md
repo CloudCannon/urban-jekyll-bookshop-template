@@ -1,6 +1,6 @@
 # Urban
 
-urban is a Web Agency themed business template for Jekyll. Browse through a [live demo](https://placid-beaver.cloudvent.net/). Increase the web presence of your agency with this configurable theme.
+Urban is a Web Agency themed business template for Jekyll. Browse through a [live demo](https://placid-beaver.cloudvent.net/). Increase the web presence of your agency with this configurable theme.
 
 ![Urban template screenshot](site/images/_screenshot.png)
 
