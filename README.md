@@ -1,11 +1,10 @@
-# Hydra
+# Urban
 
-Hydra is a Marketing site template for Jekyll. Browse through a [live demo](https://proper-gull.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+urban is a Web Agency themed business template for Jekyll. Browse through a [live demo](https://placid-beaver.cloudvent.net/). Increase the web presence of your agency with this configurable theme.
 
-![Hydra template screenshot](site/images/_screenshot.png)
+![Urban template screenshot](site/images/_screenshot.png)
 
-Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll and Hugo.
+Urban was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll and Hugo.
 The component library is built and maintained for use with [Bookshop](https://github.com/cloudcannon/bookshop/)
 
 Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Community](https://cloudcannon.com/community/).
@@ -20,6 +19,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Co
 * Fully configurable Website
 * Pre-built pages
 * Pre-styled components
+* Client Portfolio
 * Blog
 * Post category pages
 * Staff and author system
@@ -37,7 +37,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Co
 
 ## Develop
 
-Hydra was built with [Jekyll](http://jekyllrb.com/) version 4.2.0, but should support newer versions as well.
+Urban was built with [Jekyll](http://jekyllrb.com/) version 4.2.0, but should support newer versions as well.
 
 Install the dependencies for Bookshop:
 
@@ -61,7 +61,7 @@ $ npm start
 
 ## Editing
 
-Hydra is already optimised for adding, updating and removing pages, and components in CloudCannon.
+Urban is already optimised for adding, updating and removing pages, and components in CloudCannon.
 
 ### Posts
 

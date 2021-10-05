@@ -146,7 +146,7 @@ urban:
     text_color: "#fefefe"
     light_text_color: "#ffffff"
     link_color: "#ffffff"
-    button_fill_color: "#737373"
+    button_fill_color: "#222222"
     button_fill_text_color: "#ffffff"
     tag_color: '#444444'
     border_color: '#686868'
