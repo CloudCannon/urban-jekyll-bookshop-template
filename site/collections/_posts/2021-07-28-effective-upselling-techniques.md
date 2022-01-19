@@ -4,7 +4,7 @@ title: Effective upselling techniques
 categories:
   - sales
   - tips
-author_staff_member: betty
+author_staff_member: /staff_members/betty
 SEO_options:
   title:
   description:

@@ -3,7 +3,7 @@ date: 2021-06-06
 title: Definition of sales
 categories:
   - sales
-author_staff_member: james
+author_staff_member: /staff_members/james
 SEO_options:
   title:
   description:

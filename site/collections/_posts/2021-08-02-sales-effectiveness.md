@@ -4,7 +4,7 @@ title: Sales effectiveness
 categories:
   - sales
   - tips
-author_staff_member: gerald
+author_staff_member: /staff_members/gerald
 SEO_options:
   title:
   description:

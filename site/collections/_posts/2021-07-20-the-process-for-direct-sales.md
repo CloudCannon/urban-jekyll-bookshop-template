@@ -3,7 +3,7 @@ date: 2021-06-20
 title: The process for direct sales
 categories:
   - sales
-author_staff_member: anna
+author_staff_member: /staff_members/anna
 SEO_options:
   title:
   description:

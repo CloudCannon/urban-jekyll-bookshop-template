@@ -3,7 +3,7 @@ date: 2021-06-12
 title: The history of marketing
 categories:
   - marketing
-author_staff_member: robin
+author_staff_member: /staff_members/robin
 SEO_options:
   title:
   description:
