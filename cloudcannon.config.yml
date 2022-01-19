@@ -1,0 +1,72 @@
+collections_config:
+  pages:
+    icon: 'web'
+  posts:
+    sort_options:
+      - key: date
+        label: Oldest first
+      - key: date
+        label: Newest first
+        order: desc
+      - key: title
+      - key: title
+        order: desc
+  staff_members:
+    icon: 'supervisor_account'
+    _enabled_editors: 
+      - data
+
+# Make sure you add any new collections here for them to show in CloudCannon
+collection_groups:
+  - heading: Pages
+    collections:
+      - pages
+  - heading: Blog
+    collections:
+      - posts
+      - drafts
+      - staff_members
+  - heading: Settings
+    collections:
+      - data
+
+# The rest of this array structure will be
+# populated by the bookshop-array-structures plugin.
+_structures:
+  content_blocks:
+    style: modal
+
+_select_data:
+  page_themes:
+    - Light
+    - Dark
+  alignments:
+    - Left
+    - Center
+    - Right
+  link_type:
+    - Text
+    - Button
+  website_themes:
+    - 'Hydra'
+    - 'Justice'
+    - 'Cause'
+    - 'Urban'
+  component_themes:
+    - 'Light'
+    - 'Dark'
+    - 'Branded'
+
+_inputs:
+  live_domain_url: 
+    comment: "Remove any '/' at the end of the URL so your domain looks like this - 'https://example.com'"
+  website_description_text: 
+    comment:  Used for search engine optimisation and sharing on social media
+  social_media_share_image: 
+    comment:  1200x675px
+  twitter_handle: 
+    comment:  E.g. @username
+  large_bookmark_icon_image: 
+    comment:  32x32px
+  small_bookmark_icon_image: 
+    comment:  16x16px
