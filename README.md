@@ -39,7 +39,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Co
 
 ## Develop
 
-Urban was built with [Jekyll](http://jekyllrb.com/) version 4.2.0, but should support newer versions as well.
+Urban was built with [Jekyll](http://jekyllrb.com/) version 4.2.1, but should support newer versions as well.
 
 Install the dependencies for Bookshop:
 
