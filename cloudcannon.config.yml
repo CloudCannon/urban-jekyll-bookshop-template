@@ -13,7 +13,7 @@ collections_config:
         order: desc
   staff_members:
     icon: supervisor_account
-    _enabled_editors: 
+    _enabled_editors:
       - data
 
 # Make sure you add any new collections here for them to show in CloudCannon
@@ -66,15 +66,17 @@ _inputs:
     options:
       values: collections.staff_members
       value_key: _id
-  live_domain_url: 
+  blurb:
+    type: textarea
+  live_domain_url:
     comment: "Remove any '/' at the end of the URL so your domain looks like this - 'https://example.com'"
-  website_description_text: 
+  website_description_text:
     comment:  Used for search engine optimisation and sharing on social media
-  social_media_share_image: 
+  social_media_share_image:
     comment:  1200x675px
-  twitter_handle: 
+  twitter_handle:
     comment:  E.g. @username
-  large_bookmark_icon_image: 
+  large_bookmark_icon_image:
     comment:  32x32px
-  small_bookmark_icon_image: 
+  small_bookmark_icon_image:
     comment:  16x16px
