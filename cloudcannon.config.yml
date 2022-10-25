@@ -1,6 +1,9 @@
 collections_config:
   pages:
     icon: 'web'
+    schemas:
+      default:
+        path: site/schemas/page.html
   posts:
     sort_options:
       - key: date
@@ -11,10 +14,20 @@ collections_config:
       - key: title
       - key: title
         order: desc
+    schemas:
+      default:
+        path: site/schemas/post.md
   staff_members:
     icon: supervisor_account
     _enabled_editors:
       - data
+    schemas:
+      default:
+        path: site/schemas/staff-member.md
+  clients:
+    schemas:
+      default:
+        path: site/schemas/client.md
 
 # Make sure you add any new collections here for them to show in CloudCannon
 collection_groups:
