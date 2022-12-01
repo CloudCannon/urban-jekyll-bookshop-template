@@ -1,1 +1,12 @@
-{"ssg":"jekyll","build_configuration":{}}
+{
+  "ssg": "jekyll",
+  "build_configuration": {
+    "source": "site",
+    "environment_variables": [
+      { "key": "JEKYLL_ENV", "value": "production" },
+      { "key": "BUNDLE_GEMFILE", "value": "site/Gemfile" }
+    ],
+    "use_local_bundle": true,
+    "enable_bundle_cache": true
+  }
+}
